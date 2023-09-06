@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **Rohankhedekar2803@gmail.com**
 
-- ⚡ Fun fact **I like problems solving & Cricket**
+- ⚡ Fun fact **I like Problem Solving & Cricket**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
