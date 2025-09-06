@@ -2,11 +2,11 @@
 
 - 🔭 I’m currently working on **Spring Boot & DSA**
 
-- 🌱 I’m currently learning **AWS Application Deployment**
+- 🌱 I’m currently learning **Devops & Azure Application Deployment**
 
 - 📫 How to reach me **Rohankhedekar2803@gmail.com**
 
-- ⚡ Fun fact **I like Problem Solving & Cricket**
+- ⚡ Fun fact **I like Problem Solving & Sports**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
